@@ -7,8 +7,7 @@
 !define MUI_UNWELCOMEFINISHPAGE_BITMAP "sidebar.bmp"
 
 !define PRODUCT_NAME "CJDNS for Windows"
-!define PRODUCT_VERSION "$%CJDNS_VERSION%"
-!define PRODUCT_PUBLISHER "Santa Cruz Meshnet Project"
+!define PRODUCT_PUBLISHER "Lochnair"
 
 # NSIS Dependencies
 # To build the installer:
